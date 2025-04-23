@@ -34,6 +34,26 @@ C) Advanced Web Solutions
 D) Application Web Server  
 **Answer:** B
 
+**2. Which one is a global service in AWS?**
+A) EC2
+B) IAM
+C) S3
+D) VPC
+**Answer: B**
+
+**3. Which AWS service is used to store objects?**
+A) Amazon RDS
+B) Amazon EC2
+C) Amazon S3
+D) Amazon EBS
+**Answer: C**
+
+**4. What type of cloud computing model does AWS use?**
+A) PaaS only
+B) SaaS only
+C) IaaS, PaaS, and SaaS
+D) On-premise
+**Answer: C**
 <!-- Add more questions here in similar format -->
 
 ---
